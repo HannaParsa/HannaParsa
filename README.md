@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+*** It's Hanna Parsa and I'm currently learning***
+
 <!--
 **HannaParsa/HannaParsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
