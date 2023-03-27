@@ -5,8 +5,8 @@ It's Hanna and I'm currently learning.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaParsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-skills:
-c
+skills and tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,c,cpp,dotnet,java,linkedin,postman,py,vscode,idea,git,bootstrap)](https://skillicons.dev)
 <!--
 **HannaParsa/HannaParsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
