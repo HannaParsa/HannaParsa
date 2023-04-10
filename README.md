@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Hanna
   ##### I'm currently learning WebDeveloapment
   ##### How to reach me: hanaparsa8080@gmail.com   
-  ##### My LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/hanna-parsa-202a9924a)(https://www.linkedin.com/in/hanna-parsa-202a9924a))  
+  ##### My LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/hanna-parsa-202a9924a))  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=radical)
 
