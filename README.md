@@ -2,6 +2,8 @@
   ##### I'm currently learning WebDeveloapment
   ##### How to reach me: hanaparsa8080@gmail.com   
   ##### My LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanna-parsa-202a9924a)
+  
+  ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=radical)
