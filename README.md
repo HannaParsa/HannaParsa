@@ -15,7 +15,7 @@
 
 
 skills and tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,js,html,css,react,go,py,java,cs,cpp,c,postman,vscode,idea,git,bootstrap,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,js,cs,html,css,py,java,react,go,cpp,c,vscode,idea,postman,git,bootstrap,mysql)](https://skillicons.dev)
 
 <!--
 **HannaParsa/HannaParsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
