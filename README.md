@@ -4,6 +4,9 @@
   ##### My LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanna-parsa-202a9924a)
   
   ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
+  
+#### skills and tools:
+[![My Skills](https://skillicons.dev/icons?i=dotnet,js,cs,html,css,py,java,react,go,cpp,c,vscode,idea,postman,git,bootstrap,mysql)](https://skillicons.dev)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=radical)
@@ -13,9 +16,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HannaParsa&theme=radical)](https://git.io/streak-stats)
 
-
-skills and tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,js,cs,html,css,py,java,react,go,cpp,c,vscode,idea,postman,git,bootstrap,mysql)](https://skillicons.dev)
 
 <!--
 **HannaParsa/HannaParsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
