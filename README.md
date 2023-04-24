@@ -6,7 +6,7 @@
   ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
   
 #### skills and tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,cpp,c,vscode,idea,bootstrap,mysql,git,postman,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,mysql,git,postman,ai)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=radical)
 
