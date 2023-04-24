@@ -6,10 +6,7 @@
   ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
   
 #### skills and tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,js,cs,html,css,py,java,react,go,cpp,c,vscode,idea,bootstrap,pandas,mysql,git,postman,ai)](https://skillicons.dev)
-
-#### ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,cpp,c,vscode,idea,bootstrap,mysql,git,postman,ai)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=radical)
 
