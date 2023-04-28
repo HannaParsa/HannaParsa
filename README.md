@@ -4,8 +4,7 @@
   ##### 📫 How to reach me : hanaparsa8080@gmail.com   
 
   ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
-  
-#### skills and tools:
+
 [![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,mysql,git,postman)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=highcontrast)
