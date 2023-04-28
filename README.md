@@ -8,7 +8,7 @@
 #### skills and tools:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,mysql,git,postman)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaParsa&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
