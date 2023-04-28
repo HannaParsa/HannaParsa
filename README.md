@@ -1,9 +1,9 @@
-### Hi there 👋 It's Hanna
+  ##             Hi there 👋 It's Hanna
+
+ ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
   ##### 🌱 I'm currently learning WebDeveloapment
   ##### 🕵️ Know more about my experience: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanna-parsa-202a9924a)
   ##### 📫 How to reach me : hanaparsa8080@gmail.com   
-
-  ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,mysql,git,postman)](https://skillicons.dev)
 
