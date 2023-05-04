@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,html,css,py,java,react,go,django,cpp,c,visualstudio,vscode,idea,bootstrap,mysql,git,postman)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&count_private=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&show_icons=true&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaParsa&hide_progress=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
