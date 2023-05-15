@@ -2,6 +2,9 @@
    
 
  ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
+ 
+ <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HannaParsa" alt="mchoopani" /></a> </p>
+ 
   ##### 🌱 I'm currently learning WebDeveloapment
   ##### 🕵️ Know more about my experience: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanna-parsa-202a9924a)
   ##### 📫 How to reach me : hanaparsa8080@gmail.com   
