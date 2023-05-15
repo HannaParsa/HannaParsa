@@ -1,7 +1,4 @@
   ## Hi there 👋 It's Hanna
-   
-
- ![](https://komarev.com/ghpvc/?username=HannaParsa&color=ff69b4)
  
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HannaParsa" alt="mchoopani" /></a> </p>
  
