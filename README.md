@@ -12,7 +12,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaParsa&hide_progress=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HannaParsa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HannaParsa/HannaParsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
