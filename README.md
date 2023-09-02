@@ -2,7 +2,7 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=HannaParsa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  #### 🌱 I'm currently learning WebDeveloapment
+  #### 🌱 I'm currently as a junior full-stack developer
   #### 🕵️ Know more about my experience: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanna-parsa-202a9924a)
   #### 📫 How to reach me : hanaparsa8080@gmail.com   
 
