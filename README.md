@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HannaParsa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   #### 🌱 I'm currently working as a .Net full-stack developer
-  #### 🕵️ Know more about my experience: [![Linkedin]([https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hanna-parsa-202a9924a](https://www.linkedin.com/in/hanna-parsa-75011b2a9/))
+  #### 🕵️ Know more about my experience: (https://www.linkedin.com/in/hanna-parsa-75011b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)(https://www.linkedin.com/in/hanna-parsa-75011b2a9/))
   #### 📫 How to reach me : hanaparsa8080@gmail.com   
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,js,jquery,cs,angular,html,css,docker,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,mysql,git,postman)](https://skillicons.dev)
