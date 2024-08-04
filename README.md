@@ -6,7 +6,7 @@
   #### 🕵️ Know more about my experience: (https://www.linkedin.com/in/hanna-parsa-75011b2a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)(https://www.linkedin.com/in/hanna-parsa-75011b2a9/))
   #### 📫 How to reach me : hanaparsa8080@gmail.com   
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,postman,mysql,js,jquery,cs,angular,html,css,redis,rabbitmq,docker,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,git,jenkins,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,postman,mysql,js,jquery,cs,angular,html,css,redis,rabbitmq,docker,py,java,react,go,cpp,c,visualstudio,vscode,idea,bootstrap,git,gitlab,jenkins,nestjs)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaParsa&show_icons=true&theme=highcontrast)
 
